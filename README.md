@@ -49,7 +49,7 @@ signatureView.setOptionClickListener(new OptionClickListener() {
 The signature view automatically removes the buttons at the top and black border to give you a bitmap which you can save.
 
 ```java
-signatureView.getSignatureBitmap();
+Bitmap bitmap = signatureView.getSignatureBitmap();
 ```
 
 ### How to get it?
