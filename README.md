@@ -52,4 +52,6 @@ The signature view automatically removes the buttons at the top and black border
 signatureView.getSignatureBitmap();
 ```
 
+### How to get it?
 
+I am will publish it to bintray pretty soon!
