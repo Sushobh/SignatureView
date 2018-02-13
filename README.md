@@ -32,7 +32,7 @@ You can also add it in xml and then get a reference.
 
 ### Adding options and listening for callbacks.
 
-You can add options at the top , and listen for events. In the screenshots i have added the the save option.
+You can add options at the top , and listen for events. In the screenshots i have added the the save option. The options are automatically placed in a grid.
 
 ```java
 signatureView.addOption(new Option("Save ",R.drawable.ic_save));
