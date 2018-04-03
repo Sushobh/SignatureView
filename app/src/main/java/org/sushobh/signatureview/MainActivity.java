@@ -4,11 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import org.sushobh.signatureview.SignatureView.Option;
-import org.sushobh.signatureview.SignatureView.OptionClickListener;
-import org.sushobh.signatureview.SignatureView.SignatureView;
-
-import java.util.Locale;
+import org.sushobh.signview.Option;
+import org.sushobh.signview.OptionClickListener;
+import org.sushobh.signview.SignatureView;
 
 public class MainActivity extends AppCompatActivity {
 

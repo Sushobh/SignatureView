@@ -1,4 +1,4 @@
-package org.sushobh.signatureview.SignatureView;
+package org.sushobh.signview;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -16,7 +16,6 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import org.sushobh.signatureview.R;
 
 import java.util.ArrayList;
 import java.util.List;

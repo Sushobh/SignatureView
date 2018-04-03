@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SignatureView.iml" filepath="$PROJECT_DIR$/SignatureView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signview/signview.iml" filepath="$PROJECT_DIR$/signview/signview.iml" />
     </modules>
   </component>
 </project>

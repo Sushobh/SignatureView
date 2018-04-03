@@ -1,4 +1,4 @@
-package org.sushobh.signatureview.SignatureView;
+package org.sushobh.signview;
 
 import java.util.ArrayList;
 import java.util.List;
