@@ -54,4 +54,5 @@ Bitmap bitmap = signatureView.getSignatureBitmap();
 
 ### How to get it?
 
-I will publish it to bintray pretty soon!
+
+
