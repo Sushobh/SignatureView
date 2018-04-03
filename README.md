@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        signatureView = new SignatureView(this);
+        signatureView = new SignatureView(this); // Or inflate it from XML
        
         setContentView(signatureView);
     }
