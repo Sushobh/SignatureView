@@ -63,6 +63,6 @@ allprojects {
 And then add the dependency in your app level gradle file
 ```java
    dependencies {
-	  compile 'com.github.Sushobh:SignatureView:-SNAPSHOT'
+	compile 'com.github.Sushobh:SignatureView:master-SNAPSHOT'
     }
 ```
