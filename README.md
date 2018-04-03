@@ -51,9 +51,10 @@ Bitmap bitmap = signatureView.getSignatureBitmap();
 ```
 
 ### How to get it?
-```java
 
 In your project level gradle file, add this
+
+```java
 allprojects {
    repositories {
 	  maven { url 'https://jitpack.io' }
