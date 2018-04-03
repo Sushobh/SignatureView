@@ -55,15 +55,14 @@ Bitmap bitmap = signatureView.getSignatureBitmap();
 ### How to get it?
 ```java
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+   repositories {
+	  maven { url 'https://jitpack.io' }
 	}
+   }
 ```
 And then add the dependency in your app level gradle file
 ```java
    dependencies {
-	        compile 'com.github.Sushobh:SignatureView:-SNAPSHOT'
-	}
+	  compile 'com.github.Sushobh:SignatureView:-SNAPSHOT'
+    }
 ```
